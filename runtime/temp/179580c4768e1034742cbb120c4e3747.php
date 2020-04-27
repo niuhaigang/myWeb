@@ -1,4 +1,4 @@
-<?php /*a:5:{s:44:"/private/var/www/myWeb/view/index/index.html";i:1587372252;s:44:"/private/var/www/myWeb/view/public/head.html";i:1587374012;s:52:"/private/var/www/myWeb/view/public/change_color.html";i:1587368924;s:43:"/private/var/www/myWeb/view/public/nav.html";i:1587371703;s:44:"/private/var/www/myWeb/view/public/foot.html";i:1587372001;}*/ ?>
+<?php /*a:5:{s:44:"/private/var/www/myWeb/view/index/index.html";i:1587372252;s:44:"/private/var/www/myWeb/view/public/head.html";i:1587374012;s:52:"/private/var/www/myWeb/view/public/change_color.html";i:1587368924;s:43:"/private/var/www/myWeb/view/public/nav.html";i:1587371703;s:44:"/private/var/www/myWeb/view/public/foot.html";i:1587725764;}*/ ?>
 <!DOCTYPE html>
 <html class="no-js" lang="">
     <head>
@@ -621,7 +621,7 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-6 col-xs-12">
                         <div class="copyright-content">
-                            <p>Copyright © 2018 牛海刚 .All rights reserved.</p>
+                            <p>Copyright © 2018 牛海刚 所有</p>
                         </div>
                     </div>
                     <div class="col-md-6 col-sm-6 col-xs-12">

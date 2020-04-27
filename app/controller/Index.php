@@ -8,11 +8,7 @@ class Index extends BaseController
 {
     public function index()
     {
-        // return View::fetch();
-        abort(500, '页面异常');
-  
-      
-       
+        return View::fetch();
     }
    
     public function hello($name = 'ThinkPHP6')
