@@ -284,7 +284,11 @@ a:hover{
 }
 .header .logo {
 	float: left;
-	padding-top: 20px;
+	padding-top: 10px;
+}
+.header .logo a img {
+	width: 80px;
+	height: auto;
 }
 .header .navbar {
 	background: none;
