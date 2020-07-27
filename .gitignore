@@ -1,6 +1,9 @@
-/.idea
-/.vscode
-/vendor
+#Misc
+.idea/*
+.DS_Store
+.htaccess
+Runtime/
 *.log
-.env
-/runtime
+
+#Config files
+Apps/Web/Common/Conf/config.php
